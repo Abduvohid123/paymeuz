@@ -7,7 +7,7 @@ return [
 
         // Assets folder published folder name.
 
-        'pay_assets_path'   => '/vendor/pay-uz',
+        'pay_assets_path'   => '/vendor/paymeuz',
         'control_panel' => [
                 'middleware' => null
         ],
